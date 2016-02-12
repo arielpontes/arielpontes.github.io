@@ -3,7 +3,7 @@ title: Ariel's Blog
 email: pontes.ariel@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My first Jekyll blog.
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://arielpontes.github.io" # the base hostname & protocol for your site
 twitter_username: arielpontes
 github_username:  arielpontes
